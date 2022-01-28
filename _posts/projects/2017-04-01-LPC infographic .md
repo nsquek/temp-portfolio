@@ -7,29 +7,24 @@ meta:
   keywords: "Art"
 
 project:
-  title: "Living Product Challenge Infographic"
-  type: "digital infographic"
+  title: "Bullitt Foundation Report"
+  type: "digital PDF"
   url: "https://github.com/projects"
-  logo: "/assets/images/projects/LPC infographic/20_0708_LPC_Graphics_final redesign thumb.png"
+  logo: "/assets/images/projects/report_Bullitt cover.png"
   tech: ""
 
 agency:
-  title: "Digital Infographic"
+  title: "digital PDF"
   url: "https://github.com/projects"
-  year: "2020"
+  year: "2021"
 
 images:
   - image:
-    url: "/assets/images/projects/LPC infographic/20_0708_LPC_Graphics_final redesign.png"
-    alt: "Red Pineapple website on tablet, mobile and desktop"
+    url: "/assets/images/projects/BullittReport_Page1.jpg"
+    alt: "Cover page of the Bullitt Report"
   - image:
     url: "/assets/images/projects/Architecture/spacer.png"
     alt: 
-  - image:
-    url: "/assets/images/projects/LPC infographic/20_0708_LPC_Graphics_icons.png"
-    alt: "Red Pineapple website on a desktop device"
-  - image:
-    url: "/assets/images/projects/Digital Illustraion/pippa.png"
-    alt: 
+
 ---
-<p>I designed this infographic flow chart for the Living Product Challenge Handbook. It illustrates the somewhat complex and nuanced topic of handprinting, which is unique to LPC. </p>
+<p>I designed the layout and graphics and assisted with the copywriting for this 20-page report in collaboration with the International Living Future Institute's Development Team. Please contact me if you would like to see the full PDF.</p>

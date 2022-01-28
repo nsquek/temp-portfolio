@@ -8,13 +8,13 @@ meta:
 
 project:
   title: "Living Building Challenge Illustrations"
-  type: "digital illustration"
+  type: "digital + print"
   url: "https://github.com/projects"
   logo: "/assets/images/projects/LBC_Illustrations/icon square.png"
   tech: ""
 
 agency:
-  title: "illustration"
+  title: "digital + print illustrations"
   url: "https://github.com/projects"
   year: "2020"
 
@@ -35,14 +35,17 @@ images:
     url: "/assets/images/projects/LBC_Illustrations/20-06_PetalGraphics_Rebranded_Fig 2-1.png"
     alt: "Red Pineapple website on a mobile device"   
   - image:
-    url: "/assets/images/projects/Potable Water Toolkit/Basic Systems 30 MF.png"
+    url: "/assets/images/projects/ILFI_cards/cards.JPG"
     alt: "Red Pineapple website on tablet, mobile and desktop"
   - image:
-    url: "/assets/images/projects/Potable Water Toolkit/Basic Systems 100 MF.png"
+    url: "/assets/images/projects/ILFI_cards/thank you bullitt.png"
     alt: "Red Pineapple website on a desktop device"
   - image:
-    url: "/assets/images/projects/Potable Water Toolkit/Basic Systems SF.png"
+    url: "/assets/images/projects/ILFI_cards/thank you frontier.png"
     alt: "Red Pineapple website on a mobile device"
+  - image:
+    url: "/assets/images/projects/ILFI_cards/back.JPG"
+    alt: "Red Pineapple website on a mobile device"    
 
 ---
-<p>Illustrations and diagrams for the International Living Future Institute's Living Building Challenge (LBC) Handbooks. These graphics illustrate key concepts to project teams working on achieving the LBC's Water Petal.</p>
+<p>I created this series of illustrations for the International Living Future Institute's Living Building Challenge (LBC). Some of these graphics were used in digital LBC Handbooks and distrubted to project teams and some were turned into thank you cards for ILFI's board members. I served as the main point coordinator with the printing company when turning the designs from digital to print.</p>
