@@ -10,7 +10,7 @@ project:
   title: "The Courtyard at Amæger Faelled"
   type: "architectural design"
   url: "https://github.com/projects"
-  logo: "/assets/images/projects/Architecture/FinalCafePlot.png"
+  logo: "/assets/images/projects/Architecture/FinalCafePlot 2.png"
   tech: ""
 
 agency:
