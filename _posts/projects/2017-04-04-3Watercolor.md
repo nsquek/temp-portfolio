@@ -74,4 +74,4 @@ images:
     url: "/assets/images/projects/Digital Illustraion/pippa.png"
     alt: 
 ---
-<p>A peek inside my sketchbook! I love to capture places that I see in ink + watercolor. I've also done some digital illustrations in Adobe Illustrator.</p>
+<p>A peek inside my sketchbook! I love to capture places that I see in ink, watercolor + digital illustration.</p>

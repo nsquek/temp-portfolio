@@ -10,7 +10,7 @@ project:
   title: "The Courtyard at Amæger Faelled"
   type: "architectural design"
   url: "https://github.com/projects"
-  logo: "/assets/images/projects/Architecture/FinalCafePlot 2.png"
+  logo: "/assets/images/projects/22-0204_cafe thumb.png"
   tech: ""
 
 agency:
@@ -20,7 +20,7 @@ agency:
 
 images:
   - image: "Cafe Design"
-    url: "/assets/images/projects/Architecture/Portfolio_courtyard cafe.png"
+    url: "/assets/images/projects/22-0204 courtyard cafe_courtyard cafe.png"
     alt: "Cafe design in Amager, Copenhagen"
   - image:
     url: "/assets/images/projects/Architecture/spacer.png"

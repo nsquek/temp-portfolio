@@ -10,7 +10,7 @@ project:
   title: "Living Product Challenge Infographic"
   type: "digital infographic"
   url: "https://github.com/projects"
-  logo: "/assets/images/projects/LPC infographic/20_0708_LPC_Graphics_square thumbnail.png"
+  logo: "/assets/images/projects/22_0204_LPC_Graphics_square thumbnail copy 2.png"
   tech: ""
 
 agency:
