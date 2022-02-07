@@ -38,4 +38,4 @@ images:
     url: "/assets/images/projects/Architecture/spacer.png"
     alt: 
 ---
-<p>Declare is the International Living Future Institute's material transparency label. I was the lead marketing designer and copywriter for this digital awareness campaign that targeted sales managers and marketing directors in the manufacturing sector who want to get their products specified on major building projects pursuing a green rating system (like LBC). The campaign ran on Linkedin and saw significant improvement month over month, with a 43% increase in reach and 68% increase in clicks.</p>
+<p>Declare is ILFI's material transparency label. I was the marketing designer and copywriter for this digital awareness campaign that targeted sales and marketing managers in the manufacturing sector who want to get their products specified on building projects pursuing a green rating system (like LBC). The campaign ran on Linkedin and saw significant improvement month over month, with a 43% increase in reach and 68% increase in clicks.</p>

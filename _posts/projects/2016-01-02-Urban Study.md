@@ -14,7 +14,7 @@ project:
   tech: ""
 
 agency:
-  title: "site analysis, poster + video"
+  title: "site analysis, information design + video"
   url: "https://github.com/projects"
   year: "2018"
 

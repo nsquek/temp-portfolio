@@ -14,7 +14,7 @@ project:
   tech: ""
 
 agency:
-  title: "logo, look + feel, designed elements, social media graphics, ads,"
+  title: "logo, marketing design, digital marketing,"
   url: "https://github.com/projects"
   year: "2021"
 
@@ -56,4 +56,4 @@ images:
     url: "/assets/images/projects/Architecture/spacer.png"
     alt:       
 ---
-<p>I designed the graphics for the International Living Future Institute's Spring Fundraising Campaign. The theme was centered around our motto 'What Does Good Look Like?' and featured the various ways in which our work makes an impact. The digital campaign was executed on Linkedin, Facebook, Twitter, Instagram, Google Display + search ads, and email blasts. Throughout the campaign, the CTRs were double the average rates across all platforms. </p>
+<p>I designed the graphics and assisted with copywriting for ILFI's Spring Fundraising Campaign. The theme was centered around our motto 'What Does Good Look Like?' and featured the various ways in which our work makes an impact. The digital campaign was executed on social media, Google Display + search ads, and via email blasts. Throughout the campaign, the CTRs were double the average rates across all platforms. </p>

@@ -27,4 +27,4 @@ images:
     alt: 
 
 ---
-<p>I designed the layout, created graphics and assisted with copywriting for this 20-page report in collaboration with the International Living Future Institute's Development Team. Please contact me if you would like to see the full PDF.</p>
+<p>I designed the layout, created graphics and assisted with copywriting for this 20-page report in collaboration with ILFI's Development Team. Please contact me if you would like to see the full PDF.</p>

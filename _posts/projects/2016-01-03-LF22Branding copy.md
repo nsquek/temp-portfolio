@@ -33,4 +33,5 @@ images:
     alt:              
 
 ---
-<p>I designed the brand identity for Living Future 22, the International Living Future Institute's annual conference on sustainable design. I developed the color palette and imagery to support the conference's theme of "Restoration and Justice," which I then turned into a family of templates for social media, web, and email applications. I project managed the production of 100+ graphics from start to completion and directly oversaw the other designers. The opening week registration numbers eclipsed all prior historical Living Future Conference first-week openings. </p>
+<p>I designed the brand identity for Living Future 22, ILFI's annual conference on sustainable design. I developed the color palette and imagery to support the conference's theme of "Restoration and Justice," which I then turned into a family of templates for social media, web, and email applications. I project managed the production of 100+ graphics and directly oversaw the other designers' work from start to completion.</p>
+<p>The opening week registration numbers eclipsed all prior historical Living Future Conference first-week openings.</p>
