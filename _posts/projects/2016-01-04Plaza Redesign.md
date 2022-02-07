@@ -1,0 +1,32 @@
+---
+layout: project
+permalink: /:title/
+category: projects
+
+meta:
+  keywords: "Art"
+
+project:
+  title: "Bixby Plaza Redesign"
+  type: "architectural design"
+  url: "https://github.com/projects"
+  logo: "/assets/images/projects/Plaza Redesign/northcafe2 copy.jpg"
+  tech: ""
+
+agency:
+  title: "landscape architecture, rendering, floorplan, sections, hand-built model"
+  url: "https://github.com/projects"
+  year: "2019"
+
+images:
+  - image:
+    url: "/assets/images/projects/22_0204_bixby 1 copy.png"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/22_0204 Bixby_bixby 2.png"
+    alt:  
+  - image:
+    url: "/assets/images/projects/22_0204 Bixby_bixby 3.png"
+    alt: ""    
+---
+<p>Design proposal for Bixby Plaza at Pomona College for my 'Building LA' class. Through site analyses, research, design charrettes, and stakeholder interviews, my team envisioned an activation of the plaza with additional seating opportunities, green spaces, and softened edges.<p>
