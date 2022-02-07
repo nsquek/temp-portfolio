@@ -39,4 +39,4 @@ images:
     alt:     
 
 ---
-<p>This series of technical graphics visually communicates water usage concepts to project teams that are working to achieve the Living Building Challenge's Water Petal. They were used in the Potable Water Reducion guide for the International Living Future Institute. </p>
+<p>This series of technical graphics was used in the Potable Water Reduction guide to visually communicates concepts to project teams that are working to achieve the Living Building Challenge's Water Petal. The guide was created by the International Living Future Institute. </p>

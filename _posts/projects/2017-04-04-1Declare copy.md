@@ -34,5 +34,8 @@ images:
   - image:
     url: "/assets/images/projects/Declare2/ad 3.png"
     alt: "Red Pineapple website on a mobile device"
+  - image:
+    url: "/assets/images/projects/Architecture/spacer.png"
+    alt: 
 ---
-<p>Declare is the International Living Future Institue's material transparency label. I developed this digital marketing campaign targeted at architects and manufacturers. The digital ad campaign ran on Linkedin and saw significant improvement month over month, with a 43% increase in reach and 68% increase in clicks.</p>
+<p>Declare is the International Living Future Institute's material transparency label. I was the lead marketing designer and copywriter for this digital awareness campaign that targeted sales managers and marketing directors in the manufacturing sector who want to get their products specified on major building projects pursuing a green rating system (like LBC). The campaign ran on Linkedin and saw significant improvement month over month, with a 43% increase in reach and 68% increase in clicks.</p>

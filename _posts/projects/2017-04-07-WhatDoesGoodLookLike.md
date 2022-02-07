@@ -44,19 +44,16 @@ images:
     url: "/assets/images/projects/Architecture/spacer.png"
     alt:         
   - image:
-    url: "/assets/images/projects/statsgraphic1.png"
+    url: "/assets/images/projects/GivingCampaign1.png"
     alt: "Red Pineapple website on tablet, mobile and desktop"
   - image:
-    url: "/assets/images/projects/Architecture/spacer.png"
+    url: "/assets/images/projects/GivingCampaign2.png"
     alt: 
   - image:
-    url: "/assets/images/projects/statsgraphic2.png"
+    url: "/assets/images/projects/GivingCampaign3.png"
     alt: "Red Pineapple website on a desktop device"
   - image:
     url: "/assets/images/projects/Architecture/spacer.png"
-    alt: 
-  - image:
-    url: "/assets/images/projects/statsgraphic3.png"
-    alt: "Red Pineapple website on a mobile device"
+    alt:       
 ---
-<p>I designed the look and feel for the International Living Future Institute's Spring Fundraising Campaign. The theme was centered around our motto 'What Does Good Look Like?' and featured the various ways in which our work makes an impact.</p>
+<p>I designed the graphics for the International Living Future Institute's Spring Fundraising Campaign. The theme was centered around our motto 'What Does Good Look Like?' and featured the various ways in which our work makes an impact. The digital campaign was executed on Linkedin, Facebook, Twitter, Instagram, Google Display + search ads, and email blasts. Throughout the campaign, the CTRs were double the average rates across all platforms. </p>

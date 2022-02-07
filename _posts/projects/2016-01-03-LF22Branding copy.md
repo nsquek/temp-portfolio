@@ -8,13 +8,13 @@ meta:
 
 project:
   title: "Living Future 22"
-  type: "logo + branding identity"
+  type: "brand identity + marketing"
   url: "https://github.com/projects"
   logo: "/assets/images/projects/LF22/speaker card tamplate_LF22 square green.png"
   tech: ""
 
 agency:
-  title: "Illustration + Brand Identity"
+  title: "Brand Identity + Marketing"
   url: "https://github.com/projects"
   year: "2021"
 
