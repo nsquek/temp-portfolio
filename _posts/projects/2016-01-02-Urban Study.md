@@ -14,7 +14,8 @@ project:
   tech: ""
 
 agency:
-  title: "site analysis, information design + video"
+  skills: "Adobe Illustrator, Premiere Pro, graphic/information design, site analysis"  
+  title: "information design + poster + video"
   url: "https://github.com/projects"
   year: "2018"
 
