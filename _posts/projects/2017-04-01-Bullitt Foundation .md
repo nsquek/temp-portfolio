@@ -28,4 +28,4 @@ images:
     alt: 
 
 ---
-<p>I designed the layout in Adobe InDesign, created graphics in Adobe Illustrator and assisted with copywriting and content-gathering for this 20-page report in collaboration with ILFI's Development Team. Please contact me if you would like to see a high-res version.</p>
+<p>I designed the layout and created graphics for this 20-page report in collaboration with ILFI's Development Team, in addition to assisting with copywriting and content-gathering. Please contact me if you would like to see a high-res version.</p>
