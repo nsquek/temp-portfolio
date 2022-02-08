@@ -14,6 +14,7 @@ project:
   tech: ""
 
 agency:
+  skills: "Adobe Illustrator + hand-drawing"
   title: "digital + print illustrations"
   url: "https://github.com/projects"
   year: "2020"

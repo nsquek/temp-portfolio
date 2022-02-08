@@ -14,7 +14,8 @@ project:
   tech: ""
 
 agency:
-  title: "diagrams, technical illustration"
+  skills: "Adobe Illustrator + graphic design"  
+  title: "diagrams, infographic, technical illustration"
   url: "https://github.com/projects"
   year: "2021"
 

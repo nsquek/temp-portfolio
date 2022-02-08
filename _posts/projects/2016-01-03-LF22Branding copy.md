@@ -14,7 +14,8 @@ project:
   tech: ""
 
 agency:
-  title: "Brand Identity + Marketing"
+  skills: "Adobe Illustrator, Indesign, Photoshop, graphic design, project management"
+  title: "brand identity + digital marketing campaign"
   url: "https://github.com/projects"
   year: "2021"
 

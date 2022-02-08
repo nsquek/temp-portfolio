@@ -14,7 +14,8 @@ project:
   tech: ""
 
 agency:
-  title: "Digital Infographic"
+  skills: "Adobe Illustrator + information design"
+  title: "digital infographic"
   url: "https://github.com/projects"
   year: "2020"
 

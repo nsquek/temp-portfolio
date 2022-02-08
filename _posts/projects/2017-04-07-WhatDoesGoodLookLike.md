@@ -14,7 +14,8 @@ project:
   tech: ""
 
 agency:
-  title: "logo, marketing design, digital marketing,"
+  skills: "Adobe Illustrator, Photoshop, copywriting"
+  title: "digital marketing campaign"
   url: "https://github.com/projects"
   year: "2021"
 

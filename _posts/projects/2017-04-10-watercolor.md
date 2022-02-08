@@ -14,9 +14,10 @@ project:
   tech: ""
 
 agency:
-  title: "Painting + Illustration"
+  skills: "Adobe Illustrator, hand-drawing + painting"
+  title: "Illustration"
   url: "https://github.com/projects"
-  year: "2018-present"
+  year: "2018-presentofjwaioej"
 
 images:
   - image:

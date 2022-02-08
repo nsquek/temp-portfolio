@@ -1,7 +1,7 @@
 .container {
 	display: block;
 	margin: 0 auto;
-	max-width: 70em;
+	max-width: 60em;
 	padding: 0 3rem;
 	@include clearfix;
 }
@@ -37,7 +37,7 @@
 	z-index: 1;
 
 	@media (min-width: $breakpoint-medium) {
-		padding: 21rem 0 0;
+		padding: 15rem 0 0;
 		margin-bottom: 23.42rem;
 	}
 }
@@ -153,7 +153,7 @@
 	top: 0;
 
 	@media (min-width: $breakpoint-medium) {
-		margin-top: -21rem;
+		margin-top: -15rem;
 
 		.article-wrapper {
 			position: absolute;
