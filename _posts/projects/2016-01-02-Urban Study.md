@@ -10,7 +10,7 @@ project:
   title: "Vesterbros Torv: An Urban Study"
   type: "public square analysis"
   url: ""
-  logo: "/assets/images/projects/Urban Study/3 copy.png"
+  logo: "/assets/images/projects/Urban Study/3_copy.png"
   tech: ""
 
 agency:
@@ -21,10 +21,10 @@ agency:
 
 images:
   - image: "Public Square"
-    url: "/assets/images/projects/22_0205 Public Square_public square copy 2.png"
+    url: "/assets/images/projects/22_0205_PublicSquare_publicsquare_copy2.png"
     alt: ""  
- - image: "Public Square"
-    url: "/assets/images/projects/22_0205 Public Square_public square copy.png"
+  - image: "Public Square"
+    url: "/assets/images/projects/22_0205_PublicSquare_publicsquare copy.png"
     alt: ""      
     
 ---
