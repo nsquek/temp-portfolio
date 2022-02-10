@@ -21,22 +21,28 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/Declare2/ad 2.png"
+    url: "/assets/images/projects/Declare1.png"
     alt: "Red Pineapple website on tablet, mobile and desktop"  
   - image:
     url: "/assets/images/projects/Architecture/spacer.png"
     alt: "Red Pineapple website on tablet, mobile and desktop"
   - image:
-    url: "/assets/images/projects/Declare2/ad 1.png"
+    url: "/assets/images/projects/Declare2.png"
     alt: "Red Pineapple website on a desktop device"
   - image:
     url: "/assets/images/projects/Architecture/spacer.png"
     alt: 
   - image:
-    url: "/assets/images/projects/Declare2/ad 3.png"
+    url: "/assets/images/projects/Declare3.png"
     alt: "Red Pineapple website on a mobile device"
   - image:
     url: "/assets/images/projects/Architecture/spacer.png"
     alt: 
+  - image:
+    url: "/assets/images/projects/Declare4.png"
+    alt: "Red Pineapple website on a mobile device"
+  - image:
+    url: "/assets/images/projects/Architecture/spacer.png"
+    alt:           
 ---
-<p>Declare is ILFI's material transparency label. I was the marketing designer and copywriter for this digital awareness campaign that targeted sales and marketing managers in the manufacturing sector who want to get their products specified on building projects pursuing a green rating system (like LBC). The campaign ran on Linkedin and saw significant improvement month over month, with a 43% increase in reach and 68% increase in clicks.</p>
+<p>Declare is ILFI's material transparency label. I was the marketing designer and assistant strategist/copywriter for this digital awareness campaign that targeted sales and marketing managers in the manufacturing sector who wanted to get their products specified on green building projects. My team met with internal technical specialists and external marketing strategists to create the overall campaign strategy. The campaign ran on Linkedin and, through A/B testing and audience refinement, saw significant improvement month over month with a 43% increase in reach and 68% increase in clicks.</p>

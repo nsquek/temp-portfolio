@@ -24,8 +24,8 @@ images:
     url: "/assets/images/projects/BullittReport_Page1.jpg"
     alt: "Cover page of the Bullitt Report"
   - image:
-    url: "/assets/images/projects/portfolio_Bullitt report stylescape.png"
+    url: "/assets/images/projects/portfolio_bullitt report_slides_Bullitt report stylescape.png"
     alt: 
 
 ---
-<p>I designed the layout and created graphics for this 20-page report in collaboration with ILFI's Development Team, in addition to assisting with copywriting and content-gathering. Please contact me if you would like to see a high-res version.</p>
+<p>I designed the layout and graphics for this 20-page report in collaboration with ILFI's Development Team, in addition to assisting with the copywriting and content-gathering. This was a highly collaborative process that involved several departments in strategizing content, gathering statistics and photos, creating graphics, and copywriting. Please contact me if you would like to see a high-res version.</p>
