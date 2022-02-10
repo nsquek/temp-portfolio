@@ -20,12 +20,12 @@ agency:
   year: "2018"
 
 images:
-  - image: "Cafe Design"
+  - image: "Public Square"
     url: "/assets/images/projects/22_0205 Public Square_public square copy 2.png"
-    alt: "Cafe design in Amager, Copenhagen"  
- - image: "Cafe Design"
+    alt: ""  
+ - image: "Public Square"
     url: "/assets/images/projects/22_0205 Public Square_public square copy.png"
-    alt: "Cafe design in Amager, Copenhagen"      
+    alt: ""      
     
 ---
 <p>Final project for my "Sustainable By Design" class at the Danish Institute of Study Abroad. <!-- external anchor link -->
