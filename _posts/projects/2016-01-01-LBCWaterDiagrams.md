@@ -9,14 +9,14 @@ meta:
 project:
   title: "Living Building Challenge Diagrams"
   type: "digital illustration"
-  url: "https://github.com/projects"
+  url: ""
   logo: "/assets/images/projects/20-0218_PortableWaterToolkit_InLineGraphics_thumbnail.png"
   tech: ""
 
 agency:
   skills: "Adobe Illustrator + graphic design"  
-  title: "diagrams, infographic, technical illustration"
-  url: "https://github.com/projects"
+  title: "diagrams + infographic + technical illustration"
+  url: ""
   year: "2021"
 
 images:  
@@ -40,4 +40,4 @@ images:
     alt:     
 
 ---
-<p>This series of technical graphics was used in the Potable Water Reduction guide to visually communicates concepts to project teams that are working to achieve the Living Building Challenge (LBC)'s Water Petal. The guide was created by the International Living Future Institute (ILFI). </p>
+<p>This series of technical graphics was used in the Potable Water Reduction guide to visually communicate concepts to teams working to achieve the Living Building Challenge (LBC)'s Water Petal. The guide was created by the International Living Future Institute (ILFI).</p>

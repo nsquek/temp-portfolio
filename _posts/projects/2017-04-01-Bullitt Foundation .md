@@ -28,4 +28,4 @@ images:
     alt: 
 
 ---
-<p>I designed the layout and graphics for this 20-page report in collaboration with ILFI's Development Team, in addition to assisting with the copywriting and content-gathering. This was a highly collaborative process that involved several departments in strategizing content, gathering statistics and photos, creating graphics, and copywriting. Please contact me if you would like to see a high-res version.</p>
+<p>I designed the layout and graphics for this 20-page report for ILFI's Development Team, in addition to assisting with the copywriting and content-gathering. This was a highly collaborative process that involved several departments in strategizing content, gathering statistics and photos, creating graphics, and copywriting. Please contact me if you would like to see a high-res version.</p>

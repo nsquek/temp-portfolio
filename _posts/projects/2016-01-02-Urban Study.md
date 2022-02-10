@@ -21,7 +21,7 @@ agency:
 
 images:
   - image: "Cafe Design"
-    url: "/assets/images/projects/22_0205 Public Square_public square.png"
+    url: "/assets/images/projects/22_0205 Public Square_public square copy.png"
     alt: "Cafe design in Amager, Copenhagen"      
 ---
 <p>Final project for my "Sustainable By Design" class at the Danish Institute of Study Abroad. <!-- external anchor link -->
