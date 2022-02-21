@@ -9,14 +9,14 @@ meta:
 project:
   title: "Living Building Challenge Illustrations"
   type: "digital + print"
-  url: "https://github.com/projects"
+  url: ""
   logo: "/assets/images/projects/LBC_Illustrations/icon square.png"
   tech: ""
 
 agency:
   skills: "Adobe Illustrator + hand-drawing"
   title: "digital + print illustrations"
-  url: "https://github.com/projects"
+  url: ""
   year: "2020"
 
 images:

@@ -9,14 +9,14 @@ meta:
 project:
   title: "Declare"
   type: "marketing campaign"
-  url: "https://github.com/projects"
+  url: ""
   logo: "/assets/images/projects/Declare2/ad 2 copy.png"
   tech: ""
 
 agency:
   skills: "Adobe Illustrator + copywriting"
   title: "digital marketing campaign"
-  url: "https://github.com/projects"
+  url: ""
   year: "2021"
 
 images:

@@ -9,14 +9,14 @@ meta:
 project:
   title: "Painting + Illustration"
   type: "painting"
-  url: ""
+  url: "https://github.com/projects"
   logo: "/assets/images/projects/Watercolor/los feliz.JPG"
   tech: ""
 
 agency:
   skills: "Adobe Illustrator, hand-drawing + painting"
   title: "Illustration"
-  url: ""
+  url: "https://github.com/projects"
   year: "2018-present"
 
 images:

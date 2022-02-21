@@ -9,14 +9,14 @@ meta:
 project:
   title: "What Does Good Look like?"
   type: "marketing campaign"
-  url: "https://github.com/projects"
+  url: ""
   logo: "/assets/images/projects/1080x1080_HealthyPlaces.png"
   tech: ""
 
 agency:
   skills: "Adobe Illustrator, Photoshop, copywriting"
   title: "digital marketing campaign"
-  url: "https://github.com/projects"
+  url: ""
   year: "2021"
 
 images:
@@ -57,4 +57,4 @@ images:
     url: "/assets/images/projects/Architecture/spacer.png"
     alt:       
 ---
-<p>I designed the graphics and assisted with copywriting for ILFI's Spring Fundraising Campaign. The theme was centered around our motto 'What Does Good Look Like?' and featured the various ways in which our work makes an impact. The digital campaign was executed on social media, Google Display + search ads, and via email blasts. Throughout the campaign, the CTRs were double the average rates across all platforms. </p>
+<p>I designed the graphics and assisted with copywriting for ILFI's Spring Fundraising Campaign. The theme was centered around our motto 'What Does Good Look Like?' and featured the various ways in which our work makes an impact. The digital campaign was executed on social media, Google Display + search ads, and via email blasts. Throughout the campaign, the CTRs were double the average rates across all platforms.</p>
