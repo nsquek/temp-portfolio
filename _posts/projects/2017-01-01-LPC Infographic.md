@@ -21,7 +21,7 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/LPC infographic/22_0127_LPC_Graphics_final redesign copy.png"
+    url: "/assets/images/projects/20_0708_LPC_Graphics_final redesign copy.png"
     alt: "Flow chart illustrating the practice of handprinting"
   - image:
     url: "/assets/images/projects/HandprintingGraphicProcess_Handprinting process.png"

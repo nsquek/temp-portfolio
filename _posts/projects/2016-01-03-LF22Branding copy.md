@@ -21,9 +21,15 @@ agency:
 
 images:
   - image:
+    url: "/assets/images/projects/LF22 mockup screens_nobackground.png"
+    alt: "Red Pineapple website on tablet, mobile and desktop"
+  - image:
     url: "/assets/images/projects/22-0220_stylescapeLF22.png"
     alt: "Red Pineapple website on tablet, mobile and desktop"
+  - image:
+    url: "/assets/images/projects/Architecture/spacer.png"
+    alt:    
 
 ---
-<p>I designed the brand identity for Living Future 22, ILFI's annual conference on sustainable design. I developed the color palette and imagery to support the conference's theme of "Restoration and Justice," which I then turned into a family of templates for social media, web, and email applications. I project managed the production of 100+ graphics and directly oversaw the other designers' work from start to completion.</p>
+<p>I designed the brand identity for Living Future 22, ILFI's annual conference on sustainable design. I developed the color palette, imagery, and illustrations to support the conference's theme of "Restoration and Justice," which I then turned into digital templates for social media, web, and email applications. I served as the overall project manager for the production of 100+ assets and oversaw another designers' work from start to completion.</p>
 <p>The opening week registration numbers eclipsed all prior historical Living Future Conference first-week openings.</p>

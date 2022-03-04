@@ -19,7 +19,10 @@ agency:
   url: ""
   year: "2021"
 
-images:  
+images: 
+  - image:
+    url: "/assets/images/projects/Potable Water Toolkit/watertoolkit_fullmockup_nobackground.png"
+    alt: "Red Pineapple website on a mobile device"   
   - image:
     url: "/assets/images/projects/Potable Water Toolkit/Basic Systems 30 MF.png"
     alt: "Red Pineapple website on tablet, mobile and desktop"
